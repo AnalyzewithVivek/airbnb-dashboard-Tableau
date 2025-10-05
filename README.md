@@ -74,7 +74,14 @@ This dashboard addresses the following analytical objectives:
 ---
 
 ## 📸 Dashboard Preview
+<p align="center">
+  <img src="Image.png" alt="Mobile Sales Dashboard" width="800">
+</p>
 
 ---
-  
-**LinkedIn:** [Vivek Kumar](#)
+
+## Contact
+
+Email: [vivekkumar04x@gmail.com](mailto:vivekkumar04x@gmail.com)
+
+LinkedIn: [https://www.linkedin.com/in/vivek-kumar2002](https://www.linkedin.com/in/vivekkumar2002)
