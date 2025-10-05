@@ -75,7 +75,7 @@ This dashboard addresses the following analytical objectives:
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="Image.png" alt="Mobile Sales Dashboard" width="800">
+  <img src="Tableau image.png" alt="Mobile Sales Dashboard" width="800">
 </p>
 
 ---
